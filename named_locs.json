@@ -1,0 +1,241 @@
+[
+  {
+    "latitude":37.481197,
+    "longitude":126.952670,
+    "name":"Seoul National Univ. Station",
+    "keywords":[
+      "Seoul National Univ.",
+      "station"
+    ]
+  },
+  {
+    "latitude":37.477155,
+    "longitude":126.963423,
+    "name":"Nakseongdae Station",
+    "keywords":[
+      "Seoul National Univ.",
+      "station"
+    ]
+  },
+  {
+    "latitude":37.459250,
+    "longitude":126.950786,
+    "name":"Seoul National Univ. Student Union",
+    "keywords":[
+      "Seoul National Univ.",
+      "Student Union"
+    ]
+  },
+  {
+    "latitude":37.551765,
+    "longitude":126.926099,
+    "name":"Hongik Univ.",
+    "keywords":[
+      "Hongik Univ."
+    ]
+  },
+  {
+    "latitude":37.551765,
+    "longitude":126.926099,
+    "name":"Hongik Univ. Station",
+    "keywords":[
+      "Hongik Univ.",
+      "station"
+    ]
+  },
+  {
+    "latitude":37.559776,
+    "longitude":126.942308,
+    "name":"Sinchon Station",
+    "keywords":[
+      "Yonsei Univ.",
+      "Ewha Womans Univ.",
+      "Sogang Univ.",
+      "Hongik Univ.",
+      "station"
+    ]
+  },
+  {
+    "latitude":37.534529,
+    "longitude":126.994585,
+    "name":"Itaewon Station",
+    "keywords":[
+      "station"
+    ]
+  },
+  {
+    "latitude":37.475105,
+    "longitude":126.953114,
+    "name":"Dojeok",
+    "keywords":[
+      "Seoul National Univ. Station",
+      "beef",
+      "Chadolbagi",
+      "cheap",
+      "Matjip"
+    ]
+  },
+  {
+    "latitude":37.477045,
+    "longitude":126.961918,
+    "name":"Jean Boulangerie",
+    "keywords":[
+      "Nakseongdae Station",
+      "bread",
+      "snackfood",
+      "breakfast",
+      "Matjip"
+    ]
+  },
+  {
+    "latitude":37.479095,
+    "longitude":126.952993,
+    "name":"Dokkaebi Pocha",
+    "keywords":[
+      "Seoul National Univ. Station",
+      "drink"
+    ]
+  },
+  {
+    "latitude":37.479706,
+    "longitude":126.952660,
+    "name":"SAM67 House",
+    "keywords":[
+      "Seoul National Univ. Station",
+      "Muhan Refill",
+      "Syarosugil",
+      "meat",
+      "Matjip"
+    ]
+  },
+  {
+    "latitude":37.479211,
+    "longitude":126.953248,
+    "name":"Yukcheop Bansang",
+    "keywords":[
+      "Honbap",
+      "meat",
+      "Seoul National Univ. Station",
+      "Syarosugil",
+      "Matjip"
+    ]
+  },
+  {
+    "latitude":37.481320,
+    "longitude":126.953418,
+    "name":"Simtongnan Chobap",
+    "keywords":[
+      "sushi",
+      "Honbap",
+      "Seoul National Univ. Station",
+      "Matjip",
+      "japanese food"
+    ]
+  },
+  {
+    "latitude":37.482109,
+    "longitude":126.953687,
+    "name":"Bongchun Gopchang",
+    "keywords":[
+      "Gopchang",
+      "Seoul National Univ. Station",
+      "Matjip",
+      "tripe"
+    ]
+  },
+  {
+    "latitude":37.556083,
+    "longitude":126.935269,
+    "name":"Ijjimen",
+    "keywords":[
+      "Sinchon",
+      "Sinchon station",
+      "Matjip",
+      "Honbap",
+      "japanese food",
+      "ramen",
+      "noodle"
+    ]
+  },
+  {
+    "latitude":37.556260,
+    "longitude":126.934909,
+    "name":"Tongkeun Galbi",
+    "keywords":[
+      "Matjip",
+      "Muhan Refill",
+      "Galbi",
+      "Sinchon station",
+      "Sinchon",
+      "cheap"
+    ]
+  },
+  {
+    "latitude":37.558425,
+    "longitude":126.935059,
+    "name":"Sinchon Hwangso Gopchang",
+    "keywords":[
+      "Gopchang",
+      "Sinchon station",
+      "Sinchon",
+      "Matjip",
+      "tripe"
+    ]
+  },
+  {
+    "latitude":37.558191,
+    "longitude":126.937134,
+    "name":"Shop VR",
+    "keywords":[
+      "Sinchon station",
+      "Sinchon",
+      "date",
+      "couple",
+      "game",
+      "play",
+      "VR",
+      "vr",
+      "virtual reality"
+    ]
+  },
+  {
+    "latitude":37.556965,
+    "longitude":126.934259,
+    "name":"Daeseong House",
+    "keywords":[
+      "Jjim Dak",
+      "Braised Spicy Chicken with Vegetables",
+      "Sinchon station",
+      "Sinchon",
+      "Matjip",
+      "spicy"
+    ]
+  },
+  {
+    "latitude":37.551178,
+    "longitude":126.988248,
+    "name":"Namsan Seoul Tower",
+    "keywords":[
+      "Seoul",
+      "night view",
+      "beautiful",
+      "view"
+    ]
+  },
+  {
+    "latitude":37.579600,
+    "longitude":126.977062,
+    "name":"Gyeongbokgung Palace",
+    "keywords":[
+      "cultural assets",
+      "beautiful",
+      "palace",
+      "date",
+      "field experience",
+      "view",
+      "night view",
+      "history",
+      "Korean"
+    ]
+  }
+]
